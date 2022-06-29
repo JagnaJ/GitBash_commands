@@ -1,0 +1,12 @@
+initial only once:
+git clone https://********.git
+
+Open gitbash 
+
+-- after completing every task (not more than 15 per day)
+cd location.. your local catalog
+git branch -M main
+git pull
+git add -A
+git commit -m "what is it / number of jira / DD-MM-YY / nickname "
+git push -uf origin main
